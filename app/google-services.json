@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "857441545286",
+    "project_id": "debraycontractnav"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857441545286:android:92a4abac9a30c1b6",
+        "android_client_info": {
+          "package_name": "com.nguyentho.gogcm.gogcm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgJ9s7ypeYmo5KSKt0YQ2Fq5yv8EgwnEc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
